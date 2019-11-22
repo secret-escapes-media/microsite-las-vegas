@@ -91,9 +91,9 @@
       &:hover     { background-color: $black; }
     }
   }
-  &--standard { max-width: $xl; }
-  &--series   { max-width: $xl; }
-  &--image    { max-width: $xxl; }
+  &--standard { max-width: $xxxl; }
+  &--series   { max-width: $xxxl; }
+  &--image    { max-width: $xxxl; }
   &--youtube  {
     width: 100%;
     max-width: $xxxl;

@@ -1,5 +1,6 @@
 id: promo
 nav-title: optional promo
+nav: false
 
 type: membership
 title: Start your wishlist today on touristboard.com

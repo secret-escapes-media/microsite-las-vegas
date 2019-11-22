@@ -28,7 +28,7 @@
 
       <!-- loops through section file for page content -->
       {% for section in site.data.sections %}
-        <div id="{{section.id}}" class="js-nav-section vpad--xxxxl bg__fixed">
+        <div id="{{section.id}}" class="js-nav-section vpad--xxl bg__fixed">
           <div class="bg__fixed-wrap">
             <div class="bg__fixed-img" style="background-image: url('{{site.img}}/content/{{section.id}}/bg.jpg');"></div>
           </div>
@@ -36,10 +36,9 @@
 
             <div class="row row--valign-center row--gutters-lg row--xxl-6-6">
               <div class="col">
-                <div class="title title--xxl">{{section.title}}</div>
-                <p class="text--xxl">{{section.description}}</p>
+                <div class="title title--xl">{{section.title}}</div>
                 <div class="space--sm"></div>
-                <a href="{{section.link}}" class="btn btn--outline btn--outline-turquoise">Find Out More</a>
+                <p class="text--xxl">{{section.description}}</p>
               </div>
               <div class="col">
                 <div class="bg-img bg-img--1-1 bg-img--md-3-2 bg-img--xxl-1-1" style="background-image: url('{{site.img}}/content/{{section.id}}/feature.jpg');">
@@ -52,16 +51,20 @@
 
             <div class="space--lg"></div>
 
-            <div class="row row--md-6-6 row--xxl-3-3-3-3">
+            <div class="row row--md-6-6 row--xxl-4-4-4">
               {% for poi in section.pois.items %}
               <div class="col">
-                <div class="bg-img bg-img--16-9 bg-img--md-1-1 bg-img--lg-4-3 bg-img--xxl-2-3 shadow" style="background-image: url('{{site.img}}/content/{{section.id}}/pois/{{poi.id}}.jpg');">
+                <div class="bg-img bg-img--16-9 bg-img--lg-4-3 shadow" style="background-image: url('{{site.img}}/content/{{section.id}}/{{poi.img}}.jpg');">
                   <a id="track-poi-{{poi.id}}" href="#" class="bg-img__link js-open-modal" data-open-modal="{{poi.id}}"></a>
                   <div class="bg-img__bg-overlay"></div>
                   <div class="bg-img__content">
-                    <div class="title title--sm">{{poi.title}}</div>
+                    <div class="title title--sm">+</div>
                   </div>
                 </div>
+                <div class="space--md"></div>
+                <div class="title title--xs">{{poi.title}}</div>
+                <div class="space--xs"></div>
+                <div class="text text--xl">{{poi.description}}</div>
               </div>
               {% endfor %}
             </div>
@@ -70,64 +73,9 @@
         </div>
       {% endfor %}
 
-      <!-- optional promotion section -->
-      {% if site.data.promo %}
-      {% assign promo = site.data.promo %}
-      <div id="{{promo.id}}" class="js-nav-section vpad--xxxxl bg__fixed bg--light">
-        <div class="bg__fixed-wrap">
-          <div class="bg__fixed-img" style="background-image: url('{{site.img}}/content/{{promo.id}}/bg.jpg');"></div>
-        </div>
-        <div class="container text--center">
-          <div class="width width--xxl">
-            {% case promo.type %}
-              {% when 'membership' %}
-                <div class="title title--xl">{{promo.title}}</div>
-                <p class="width width--xl text--xxl">{{promo.description}}</p>
-                <div class="space--sm"></div>
-                <a id="track-{{promo.id}}-btn" href="{{promo.link}}" class="btn btn--lg btn--orange">Sign up now</a>
-              {% when 'social' %}
-                <div class="title title--xl">{{promo.title}}</div>
-                <p class="width width--xl text--xxl">{{promo.description}}</p>
-                <div class="row row--4-4-4 space--lg">
-                  {% for item in promo.channels %}
-                    <div class="col">
-                      <div class="bg-img bg-img--4-3">
-                        <a href="{{item.link}}" class="bg-img__link"></a>
-                        <div class="bg-img__bg-overlay"></div>
-                        <div class="bg-img__content">
-                          <div class="title title--sm">{{item.title}}</div>
-                        </div>
-                      </div>
-                    </div>
-                  {% endfor %}
-                </div>
-              {% when 'newsletter' %}
-                <div class="title title--xl">{{promo.title}}</div>
-                <p class="width width--xl text--xxl">{{promo.description}}</p>
-                <div class="text--left space--lg">
-                  {% include page/signup-form.html %}
-                </div>
-              {% when 'competition' %}
-                <div class="title title--xl">{{promo.title}}</div>
-                <p class="width width--xl text--xxl">{{promo.description}}</p>
-                <div class="space--lg">
-                  {% include page/competition-form.html %}
-                </div>
-            {% endcase %}
-          </div>
-        </div>
-      </div>
-      {% endif %}
 
-      <!-- Offers section -->
-      <div id="offers" class="js-nav-section">
-        <div class="space--xxxxl"></div>
-        <div class="title title--xl text--center">Latest Offers</div>
-        <div class="space--lg"></div>
-        {% include offer/all-offers.html %}
-        <div class="space--xxxl"></div>
-        {% include page/promo-offers.html %}
-      </div>
+      {% include page/klm.html %}
+
 
     </div>
 
