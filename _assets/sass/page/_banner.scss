@@ -11,6 +11,7 @@
   max-height: 700px;
   color: $white;
   background-color: $black;
+  overflow: hidden;
   @include bp($lg){
     min-height: 650px;
     max-height: none;
@@ -35,16 +36,7 @@
     z-index: $z-content;
     background-color: $grey-dark;
     @include background-attributes;
-    // &:before {
-    //   // optional colour overlay on bg image
-    //   content: '';
-    //   position: absolute;
-    //   top: 0;
-    //   left: 0;
-    //   right: 0;
-    //   bottom: 0;
-    //   background-color: rgba($black,.15);
-    // }
+
   }
   &__nav {
     // optional container for navigation include
@@ -58,23 +50,37 @@
       bottom: auto;
     }
   }
-  &__attribution {
+  &__bg-video {
     position: absolute;
-    right: 0;
-    bottom: 0;
-    display: inline-block;
-    max-width: 90%;
-    padding: $s-4 $s-2;
-    font-size: $s-1;
-    font-weight: 500;
-    line-height: 1.2;
-    text-align: right;
-    color: rgba($grey-darkest,.8);
-    background-color: rgba($white,.66);
-    border-top-left-radius: 3px;
-    > a {
-      text-decoration: underline;
-      color: rgba($grey-darkest,.8);
+    z-index: 0;
+    top: 0; left: 0;
+    width: 100%;
+    min-height: 100%;
+    //max-height: 700px;
+    & video {
+      position: absolute;
+      top: 0; left: 50%;
+      transform: translateX(-60%);
+      height: 100%;
+      //max-height: 700px;
+      margin: auto;
+      opacity: 1;
+      @include bp($lg){
+          position: absolute;
+          top: 0; left: 50%;
+          transform: translateX(-50%);
+          height: 100%;
+          //max-height: 700px;
+          margin: auto;
+          opacity: 1;
+      }
+    }
+    &:before {
+      content: "";
+      display: block;
+      width: 100%;
+      padding-top: 56.25%;
+      @include bp($lg){}
     }
   }
 }

@@ -3,13 +3,13 @@ layout: single-page
 id: overview
 nav: true
 nav-order: 1
-title: Overview
+title: Mit KLM in die Hauptstadt des Entertainments
 
 banner:
-  title: Desti&shy;nation Name
-  attribution: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+  title: Las Vegas
+  title-sub:
 
-primary-cta:
-  label: Primary Call To Action
-  link: "#promo"
+intro-title: "Mit KLM in die Hauptstadt des&nbsp;Entertainments"
+description: "Vom Rat Pack bis Ocean's Eleven: die pulsierende Hauptstadt Nevadas war schon immer Verführung und Inspiration. Als Oase in der Wüste, Sin City, Heiratsmetropole und Legende im Nachtleben jongliert Vegas mit vielen Identitäten. Eins ist sicher: es lohnt sich hinter die Fassade zu blicken. Was macht Vegas wirklich aus? Fliegen Sie mit KLM hin und finden Sie es raus!"
+
 ---

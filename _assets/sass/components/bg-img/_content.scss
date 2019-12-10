@@ -21,11 +21,11 @@
     bottom: 0;
     z-index: $z-content-upper;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: top;
+    justify-content: left;
     color: $white;
     text-align: center;
-    @include page-padding;
+    //@include page-padding;
   }
   &__bg-overlay {
     position: absolute;
@@ -34,10 +34,10 @@
     right: 0;
     bottom: 0;
     z-index: $z-content;
-    background-color: rgba($black,.4);
+    background-color: rgba($turquoise,.1);
     @include transition;
   }
-  &:hover &__bg-overlay { background-color: rgba($black,.6); }
+  &:hover &__bg-overlay { background-color: rgba($black,.3); }
   &__attribution {
     position: absolute;
     right: 0;

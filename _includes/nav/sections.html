@@ -12,7 +12,8 @@
     <div class="site-nav__wrap">
 
         <!-- loops through all sections within page -->
-        {% for section in site.data.sections %}<span class="site-nav__item">
+        {% for section in site.data.sections %}
+        <span class="site-nav__item">
 
           <a class="site-nav__link site-nav__link--{{section.id}}" href="#{{section.id}}">
             {% if section.nav-title %}
@@ -24,7 +25,10 @@
 
         </span>{% endfor %}
         <span class="site-nav__item">
-          <a class="site-nav__link site-nav__link--offers" href="#klm">KLM</a>
+          <a class="site-nav__link site-nav__link--five" href="#five">Heiraten</a>
+        </span>
+        <span class="site-nav__item">
+          <a class="site-nav__link site-nav__link--six" href="#six">Anreise</a>
         </span>
     </div>
   </div>

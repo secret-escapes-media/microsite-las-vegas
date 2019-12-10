@@ -10,11 +10,11 @@
     {% for section in site.data.sections %}
       {% for item in section.pois.items %}
 
-        <div class="modal modal--series is-closed" data-modal-id="{{item.id}}" data-modal-group="{{section.id}}">
+        <div class="modal modal--series is-closed" data-modal-id="{{item.id}}" data-modal-group="all">
           <div class="js-close-modal modal__close"></div>
           <div class="js-modal-nav modal__nav modal__nav--next" data-nav-direction="next"></div>
           <div class="js-modal-nav modal__nav modal__nav--previous" data-nav-direction="previous"></div>
-          <div class="bg-img bg-img--16-9 bv-modal-width" style="background-image: url('{{site.img}}/content/{{section.id}}/{{item.img}}.jpg'); background-size: cover; width: 62vw;">
+          <div class="bg-img bg-img--16-9 bv-modal-width" style="background-image: url('{{site.img}}/content/{{section.id}}/{{item.img}}.jpg'); background-size: cover; ">
             {% if item.image-credit %}<div class="bg-img__attribution js-image-attribution">{{item.image-credit}}</div>{% endif %}
           </div>
   <!--

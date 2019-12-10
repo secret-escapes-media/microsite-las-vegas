@@ -6,6 +6,7 @@
   &--xl  { font-size: 1.1rem; letter-spacing: 0; }
   &--lg  { font-size: 1.05rem; letter-spacing: 0; }
   &--sm  { font-size: .8rem; }
+  &--xs  { font-size: .7rem; }
 
   // styles
   &--italic       { font-style: italic; }
@@ -23,6 +24,7 @@
   &--left   { text-align: left; }
   &--right  { text-align: right; }
   &--center { text-align: center; }
+  &--justify { text-align: justify; }
   @include bp($lg) {
     &--bp-left   { text-align: left; }
     &--bp-right  { text-align: right; }

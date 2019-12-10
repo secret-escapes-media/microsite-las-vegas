@@ -33,7 +33,7 @@
   &__content {
     color: $grey-dark;
     background-color: $white;
-    padding: $s2 $s3;
+    //padding: $s2 $s3;
   }
   &__close {
     position: absolute;
@@ -74,7 +74,7 @@
       left: 0;
       background-image: url('../img/icons/arrow-left.svg');
     }
-    @include bp($md) {
+    @include bp($lg) {
       position: absolute;
       z-index: $z-overlay-upper;
       top: 50%;
@@ -125,7 +125,7 @@
   }
   @include bp($lg){
     &__content {
-      padding: $s4 $s6;
+      //padding: $s4 $s6;
     }
   };
 }

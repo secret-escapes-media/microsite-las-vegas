@@ -1,7 +1,7 @@
 - id: one
   title: Sightseeing
   nav-title: sightseeing
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  description: Eine der besten Sehenswürdigkeiten in Las Vegas sind – die Menschen. Kaum ein anderer Ort hat so eine illustre Mischung aus prominenten Persönlichkeiten, Exzentrikern und Durchschnittsbürgern. Doch auch die Stadt selbst hält auf Schritt und Tritt Überraschungen parat.
   link: "#section-link"
 
   pois:
@@ -10,44 +10,32 @@
       - id: one-first-poi
         img: img1
         title: Las Vegas Strip
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: ‘Welcome to Fabulous Las Vegas’ - das Schild auf dem Mittelstreifen des Las Vegas Blvd. grüßt Anreisende und ist beliebtes Fotomotiv mit einer immerwährenden Schlange davor. Hier beginnt der Las Vegas Strip und führt über 6,8 km vom Mandalay Bay bis zum Stratosphere Tower. Eine Fahrt auf dem Strip ist eine Mini-Weltreise, vorbei an Luxushotels und Casinos. Am Luxor geht es los und nach New York, von New York landen wir in Monte Carlo und danach in Paris. Am Ende wird es noch italienisch (Bellagio, The Venetian), bevor die Sahara den Trip abschließt.
 
       - id: one-second-poi
         img: img2
         title: The Fountains of Bellagio
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Direkt am Strip und kostenlos zu besichtigen sind die tanzenden Wasserfontänen vor dem gleichnamigen Hotel Bellagio. Alle halbe oder Viertelstunde schießen aus dem See Fontänen in den Himmel. Wasserdüsen und Scheinwerfer performen zusammen harmonische Choreographien, untermalt von klassischen Musikstücken oder Songs von Elvis und Sinatra. Einige der Jets schießen das Wasser für Sekunden auf über 150 Meter Höhe. Aus einem der Restaurants im Bellagio können Sie das Schauspiel zu einem Glas kühlen Weißwein genießen."
 
       - id: one-third-poi
         img: img3
-        title: High Roller
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        title: High Roller & Great Views
+        description: "London hat das London Eye, Vegas den High Roller. In 30 Minuten geht es auf ca. 165 Meter Höhe, wobei Sie geschichtlichen Hintergrundinfos zu Las Vegas lauschen können. Vor allem nachts haben Sie viel zu sehen, wenn sich die gigantischen Hotelkomplexe vielfarbig in den Nachthimmel türmen. Im Foundation Room des Mandalay Bay überblicken Sie den Strip vom Süden und bei einem exquisiten Drink in der Skybar des Waldorf Astoria fühlen Sie sich quasi als Teil der Stadt. Für romantische Dinner empfiehlt sich Top of the World, das in 80 Minuten einen 360°-Blick auf das Lichtermeer bietet."
 
       - id: one-fourth-poi
         img: img4
-        title: Great Views in Las Vegas
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        title: Fremont Street Experience
+        description: "Eine etwas andere Erfahrung gibt es abseits des Strips mit der Fremont Street Experience in Downtown Las Vegas. Die westlichsten fünf Blöcke der Fremont Street sind überdacht mit dem weltgrößten Videobildschirm, wo mehrmals am Tag Lichtshows von Viva Vision gespielt werden. Drei Bühnen sorgen mit kostenfreien Musikshows für Entertainment. Besonderer Adrenalinkick: fliegen Sie auf der SlotZilla Zipline durch dieses Universum von Lichtern."
 
       - id: one-fifth-poi
         img: img5
         title: Neon Museum
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "In direkter Nähe zur Fremont Street sitzt das Neon Museum. Seit 1996 sind hier allerlei Arten von Neon-Schildern zu besichtigen, eine klassische Kunstform der Sin City. Der Außenbereich namens Neon Boneyard beherbergt über 200 Schilder von ehemaligen Casinos wie Riviera oder Lady Luck. Im Rahmen von Shows wie ‘Brilliant!’ werden diese Zeugen einer erleuchteten Vergangenheit zum zweiten Leben erweckt und sprechen von einer verheißungsvollen Zeit."
 
       - id: one-sixth-poi
         img: img6
-        title: tba
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        title: Der Eiffelturm im 'The Paris'
+        description: "Wer denkt, der Eiffelturm in Paris sei ein Unikat, irrt sich. Das Symbol der Romantik steht als Nachbau am The Paris Las Vegas. Seine Aussichtsplattform ist ein weiterer Panoramapunkt hoch oben über dem Strip. Am besten ist dieser Ausblick im Eiffel Tower Restaurant zu genießen, bei französischen Spezialitäten wie Foie Gras oder Filet Mignon, zubereitet vom Chefkoch Jean Joho und seinem&nbsp;Team."
 
 
 
@@ -58,7 +46,7 @@
 - id: two
   title: Großartige Küche
   nav-title: Großartige Küche
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  description: "Ehemals vor allem für seine üppigen und ausschweifenden Buffets bekannt, ist die Gastronomieszene der Stadt in den letzten Jahres explodiert. Nun kann Nevadas Hauptstadt mit vielen anderen Foodie-Metropolen der USA wie Austin oder San Francisco in einem Atemzug genannt werden. Hier werden alle Gourmets fündig."
   link: "#section-link"
 
   pois:
@@ -67,25 +55,17 @@
       - id: one
         img: img1
         title: Frühstück zu jeder Uhrzeit
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Wenn die amerikanische Küche etwas wirklich gut kann, dann Frühstück. Hash Brownies, Pancakes, Eier in jeder Form, Bacon – egal wie es Ihnen am Vorabend ging, nach diesem Start in den Tag fühlen Sie wie neugeboren. Verluste beim Pokern? Shrimp and Grits oder ein Frühstücks-Burrito im The Henry helfen hier. Nostalgisch veranlagt? Dann ist das atmosphärische Siegel’s 1941 im El Cortez ganz richtig. Und wenn Sie die alte Welt vermissen, dann entschädigt Sie das Pain Perdu im Bouchon, versteckt im Turm des Venetian."
 
       - id: two-second-poi
         img: img2
         title: Kulinarische Geheimtipps
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Foodies, auf nach Las Vegas! Die Stadt genießt momentan eine hohe Dichte an Sterneköchen – unter anderem Gordon Ramsay, Guy Fieri und Nobu Matsuhisa residieren hier. Die Buffets der Stadt sind legendär. Das Bacchanal Buffet im Caesars Palace ist laut USA Today der Star unter Sternchen. Showküchen mit internationalen Spezialitäten, tägliche Specials, unbegrenzte Mimosas und mehr erwarten dort Gourmets. Aber auch abseits vom Strip lockt Genuss, etwa im Tacos El Gordo oder im simplen, aber effektiven Eat. in Downtown."
 
       - id: two-third-poi
         img: img3
-        title: Drink mit Aussicht
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-
+        title: Bars mit dem gewissen Extra
+        description: "Bei so vielen Bars ist die Auswahl nicht leicht. Sicher ist, dass Sie in der Apex Rooftop Bar & Lounge nicht falsch liegen können. Auf allen Seiten pulsiert die Wüstenmetropole um Sie, während Sie im 55. Stock einen kühlen Drink genießen oder die Kunstwerke von Dustin Yellin unter die Lupe nehmen. Etwas legerer ist der Beer Park mit hunderten von Biersorten und Aussicht auf den Bellagio. Ohne Aussicht, aber dennoch viel zu sehen gibt es bei der Pop-Art-Deko der Greene St. Kitchen. The Laundry Room dagegen ist ein Erlebnis für sich: versteckt im Commonwealth ist der Zugang passwortgeschützt und die Drinks gut geschüttelt."
 
 
 
@@ -94,10 +74,9 @@
 
 
 - id: three
-  title: Unterhaltung
-  nav-title: Unterhaltung
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
-  link: "#section-link"
+  title: Entertainment
+  nav-title: Entertainment
+  description: "Keiner fährt nach Las Vegas, um sich zu langweilen. Hier sind nur einige der Dinge, die Sie mit Ihrer Zeit anstellen können: Pokern lernen, atemberaubende Shows von Lady Gaga oder Cirque Soleil ansehen, all die Designerschuhe einkaufen, die Sie tragen können, und nachts in einem der mondänen Clubs ausführen."
 
   pois:
     items:
@@ -105,44 +84,32 @@
       - id: three-first-poi
         img: img1
         title: Die ultimative Casino Erfahrung
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Las Vegas hat mehr Casinos als manche Städte Kirchen. Viele kommen mit einem sehenswerten Hotel als Anhang: Excalibur, Circus Circus und natürlich das Caesars Palace. Mehrere Hotels bieten Einsteigerkurse für Casino-Neulinge an (z.b. Das Golden Nugget). Jedes Casino hat dabei seinen eigenen Twist: Foodies gehen ins Cosmopolitan, Poker-Liebhaber sind im Bellagio zuhause, auf Sport kann am besten im Caesars Palace gewettet werden und der beste Mix von Glücksspiel und Entertainment findet sich im Planet Hollywood."
 
       - id: three-second-poi
         img: img2
         title: It's Showtime
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Nicht ohne Grund ist es 'The Entertainment Capital of the World'. Las Vegas betört, fesselt, erstaunt. Der weltbekannte Cirque du Soleil hat hier seine Stammspielstätte und begeistert mit seiner letzten Show ‘Mystere’ oder dem Wasserballett ‘O’. Etwas gewagter und wilder geht es beim Karneval für Erwachsene ‘Absinthe’ zu, wo Sie der Bühne ganz nah sind. Weltstars wie Cher oder Lady Gaga teilen sich unterdessen im Mandalay Bay die Bühne. Es sei denn es steht gerade ein Sportevent oder ein Magie-Abend an."
 
       - id: three-third-poi
         img: img3
         title: Shoppingfreuden
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Wenn Sie sehen und gesehen werden wollen, können Sie gleich Ihren Kleiderschrank mit auffrischen. Luxus-Boutiquen neben Avantgarde-Mode und Markenikonen, Las Vegas hat alles. Starten Sie im Fashion Show Shoppingcenter und arbeiten Sie sich durch seine 250 Geschäfte oder gehen Sie auf die Suche nach Jimmy Choo oder Louboutin in die Schuhgeschäfte der Grand Canal Shoppes. Schnäppchen auf Designer oder Markenartikel finden Sie dagegen in Las Vegas North Premium Outlets. Praktisch: der Shop Vegas Passport."
 
       - id: three-fourth-poi
         img: img4
         title: First Friday at Arts District
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Immer wieder Freitags – das heißt am ersten Freitag jeden Monat ist der Las Vegas Arts District der place to be. Warum? Seit Oktober 2002 findet da der First Friday statt, eine block party und ein Kunstevent, das Künstler und die Nachbarschaft stärken und mit dem Publikum zusammenbringen soll. Die Non-Profit Organisation promotet jedes Mal mehr als 60 Künstler und Kunsthandwerker aus den Bereichen Bildende Kunst, Fotografie, Keramik und Skulptur - viele davon in der Anfangsphase ihres Werkes. Daneben gibt es Streetfood und Live-Musik."
 
       - id: three-fifth-poi
         img: img5
         title: Poolparties
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Feiern in der Nacht ist etwas für Länder, wo keine Sonne scheint. Was könnte es besseres geben, als der brennenden Nevada-Sonne 'Later' zu sagen und abzutauchen? Das Nonplusultra der Poolparties ist der Encore Beach Club, wo Sie bei endlosen Beats und endlosen Pools bis in die Nacht feiern – oder am beliebten Nightswim teilnehmen können. Ähnlich namhaft sind auch TAO Beach oder Drai’s Beach Club im Zentrum des Strips. Im Tank at Golden Nugget sind dagegen Haie die VIPs der Pools, sicher in speziellen Aquarien untergebracht."
 
       - id: three-sixth-poi
         img: img6
         title: Clubbing in Vegas
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Das soll nicht heißen, dass Nightlife in Vegas zu vernachlässigen wäre. Elegante Einrichtung und goldene Dekorelemente verbinden sich im XS Nightclub mit Pyrotechnik, einer besonderen Lichtshow und DJ-Sets zum eindrucksvollen Clubbing-Erlebnis. Das Hakkasan im MGM Grand zieht sich über fünf Stockwerke und hat neben Dancefloors auch Restaurants. Clubbing-Maximalisten werden im relativ jungen OMNIA ihre Erfüllung finden. Fast 7000 qm Fläche, Veranda, moderne Soundtechnologie und das Herzstück: ein gigantischer Kronleuchter, der sich im Rhythmus mitbewegt."
 
 
 
@@ -155,8 +122,7 @@
 - id: four
   title: Outdoor&shy;aktivitäten
   nav-title: Outdoor
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
-  link: "#section-link"
+  description: "Es ist leicht zu vergessen, dass um Vegas herum einmalige Natur wartet. Wüsten- und Gebirgslandschaften, State Parks und Stauseen sind alle einen Steinwurf entfernt. Schließlich ist der Grand Canyon mit dem Auto in einigen Stunden zu erreichen – und diesen Nationalpark zu verpassen ist unverzeihlich."
 
   pois:
     items:
@@ -164,64 +130,18 @@
       - id: four-first-poi
         img: img1
         title: Valley of Fire
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Nicht von dieser Welt: im State Park Valley of Fire erstreckt sich nur eine Fahrtstunde von der Sin City eine Landschaft aus Sandstein in den absurdesten Formationen. Erosion sei Dank für die Farbenpracht, die von rötlich zu orange zu elfenbeinfarben changiert. Hauptattraktion ist die Fire Wave; auch der Pastel Canyon in zarten Pinktönen steht dem Antelope Canyon nicht nach. Achtung: im Sommer steigen die Temperaturen über 40°C!"
 
       - id: four-second-poi
         img: img2
         title: Hoover Damm
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: "Der mächtige Colorado durchquert auf seinem Weg 5 Bundesstaaten, bevor er am Hoover-Damm an der Grenze zu Arizona gestaut wird. Der Lake Mead, der dabei entstanden ist, ist beliebtes Naherholungsgebiet und der wichtigste Stausee der Vereinigten Staaten. Die Lake Mead National Recreation Area lädt zum Schwimmen und Bootfahren ebenso wie zu ausgiebigen Wanderungen zwischen Canyons und Joshua Trees ein."
 
       - id: four-third-poi
         img: img3
-        title: Grand Canyon
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        title: Tagesausflug zum Grand&nbsp;Canyon
+        description: "Der weltgrößte Canyon ist ein Faszinosum, das Sie mit eigenen Augen sehen müssen. Meilenweit ziehen sich die gewundenen Schluchten, die vom Colorado eingegraben wurden. Die Infrastruktur des Nationalparks ist beachtlich, Wanderwege unterschiedlicher Schwierigkeitsstufen führen bis hinunter ins Tal. Unser Tipp: das Farbenspiel beim Sonnenuntergang am Hopi Point, mit fast 360° Panorama und Blick auf den Fluss."
 
 
 
 ################################################################################
-
-
-
-- id: five
-  title: Heiraten in Las&nbsp;Vegas
-  nav-title: Heiraten in Las Vegas
-  background: "bg--turquoise"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
-  link: "#section-link"
-
-  pois:
-    items:
-
-      - id: five-first-poi
-        img: img1
-        title: Three First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: five-second-poi
-        img: img2
-        title: Three Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: five-third-poi
-        img: img3
-        title: Three Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: five-fourth-poi
-        img: img4
-        title: Three Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
