@@ -4,21 +4,20 @@
 
   <div class="banner__wrap">
 
-    <div class="container text--center text--white">
-      <div class="banner__title">
-        <img class="logo logo--partner-banner" src="{{site.img}}/logo/partner.svg" alt="{{site.client.name}} Logo">
-      </div>
-      <div class="space--md"></div>
+    <div class="container text--center text--white" style="height:100%; width:100%;">
 
-    </div>
 
+
+
+    </div><div class="text text--sm text--white text--right">  <img class="logo logo--partner-banner" src="{{site.img}}/logo/partner.svg" alt="{{site.client.name}} Logo"></div>
+    <div class="space--md"></div>
   </div>
-
   <div class="banner__bg-video" style="background-image: url('{{site.img}}/content/hero.jpg'); opacity:.7; ">
     <video controls poster="{{site.img}}/content/{{page.id}}/hero.jpg"  playsinline loop muted autoplay >
     <source src="{{site.img}}/content/las-vegas-film.mp4" type="video/mp4">
     </video>
   </div>
+
   <div class="banner__nav">
     {% include nav/sections.html %}
   </div>

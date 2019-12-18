@@ -91,12 +91,12 @@
       &:hover     { background-color: $black; }
     }
   }
-  &--standard { max-width: $xxxl; }
+  &--standard { max-width: $xxl; }
   &--series   { max-width: $xxxl; }
-  &--image    { max-width: $xxxl; }
+  &--image    { max-width: $xxl; }
   &--youtube  {
     width: 100%;
-    max-width: $xxxl;
+    max-width: $xxl;
     .video__wrap {
       position: relative;
       display: flex;

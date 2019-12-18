@@ -10,7 +10,7 @@
       - id: one-first-poi
         img: img1
         title: Las Vegas Strip
-        description: ‘Welcome to Fabulous Las Vegas’ - das Schild auf dem Mittelstreifen des Las Vegas Blvd. grüßt Anreisende und ist beliebtes Fotomotiv mit einer immerwährenden Schlange davor. Hier beginnt der Las Vegas Strip und führt über 6,8 km vom Mandalay Bay bis zum Stratosphere Tower. Eine Fahrt auf dem Strip ist eine Mini-Weltreise, vorbei an Luxushotels und Casinos. Am Luxor geht es los und nach New York, von New York landen wir in Monte Carlo und danach in Paris. Am Ende wird es noch italienisch (Bellagio, The Venetian), bevor die Sahara den Trip abschließt.
+        description: "‘Welcome to Fabulous Las Vegas’ - das Schild auf dem Mittelstreifen des Las Vegas Blvd. grüßt Anreisende und ist beliebtes Fotomotiv mit einer immerwährenden Schlange davor. Hier beginnt der Las Vegas Strip und führt über 6,8 km vom Mandalay Bay bis zum Stratosphere Tower. Eine Fahrt auf dem Strip ist eine Mini-Weltreise, vorbei an Luxushotels und Casinos. Am Luxor geht es los und nach New York, von New York landen wir in Paris. Am Ende wird es noch italienisch (Bellagio, The Venetian), bevor die Sahara den Trip abschließt."
 
       - id: one-second-poi
         img: img2
@@ -30,11 +30,11 @@
       - id: one-fifth-poi
         img: img5
         title: Neon Museum
-        description: "In direkter Nähe zur Fremont Street sitzt das Neon Museum. Seit 1996 sind hier allerlei Arten von Neon-Schildern zu besichtigen, eine klassische Kunstform der Sin City. Der Außenbereich namens Neon Boneyard beherbergt über 200 Schilder von ehemaligen Casinos wie Riviera oder Lady Luck. Im Rahmen von Shows wie ‘Brilliant!’ werden diese Zeugen einer erleuchteten Vergangenheit zum zweiten Leben erweckt und sprechen von einer verheißungsvollen Zeit."
+        description: "In direkter Nähe zur Fremont Street sitzt das Neon Museum. Seit 1996 sind hier allerlei Arten von Neon-Schildern zu besichtigen, eine klassische Kunstform in Vegas. Der Außenbereich namens Neon Boneyard beherbergt über 200 Schilder von ehemaligen Casinos wie Riviera oder Lady Luck. Im Rahmen von Shows wie ‘Brilliant!’ werden diese Zeugen einer erleuchteten Vergangenheit zum zweiten Leben erweckt und sprechen von einer verheißungsvollen Zeit."
 
       - id: one-sixth-poi
         img: img6
-        title: Der Eiffelturm im 'The Paris'
+        title: Der Eiffelturm Restaurant
         description: "Wer denkt, der Eiffelturm in Paris sei ein Unikat, irrt sich. Das Symbol der Romantik steht als Nachbau am The Paris Las Vegas. Seine Aussichtsplattform ist ein weiterer Panoramapunkt hoch oben über dem Strip. Am besten ist dieser Ausblick im Eiffel Tower Restaurant zu genießen, bei französischen Spezialitäten wie Foie Gras oder Filet Mignon, zubereitet vom Chefkoch Jean Joho und seinem&nbsp;Team."
 
 
@@ -46,7 +46,7 @@
 - id: two
   title: Großartige Küche
   nav-title: Großartige Küche
-  description: "Ehemals vor allem für seine üppigen und ausschweifenden Buffets bekannt, ist die Gastronomieszene der Stadt in den letzten Jahres explodiert. Nun kann Nevadas Hauptstadt mit vielen anderen Foodie-Metropolen der USA wie Austin oder San Francisco in einem Atemzug genannt werden. Hier werden alle Gourmets fündig."
+  description: "Ehemals vor allem für seine üppigen und ausschweifenden Buffets bekannt, ist die Gastronomieszene der Stadt in den letzten Jahres explodiert. Nun kann Las Vegas mit vielen anderen Foodie-Metropolen der USA wie New York oder San Francisco in einem Atemzug genannt werden. Hier werden alle Gourmets fündig."
   link: "#section-link"
 
   pois:
@@ -55,7 +55,7 @@
       - id: one
         img: img1
         title: Frühstück zu jeder Uhrzeit
-        description: "Wenn die amerikanische Küche etwas wirklich gut kann, dann Frühstück. Hash Brownies, Pancakes, Eier in jeder Form, Bacon – egal wie es Ihnen am Vorabend ging, nach diesem Start in den Tag fühlen Sie wie neugeboren. Verluste beim Pokern? Shrimp and Grits oder ein Frühstücks-Burrito im The Henry helfen hier. Nostalgisch veranlagt? Dann ist das atmosphärische Siegel’s 1941 im El Cortez ganz richtig. Und wenn Sie die alte Welt vermissen, dann entschädigt Sie das Pain Perdu im Bouchon, versteckt im Turm des Venetian."
+        description: "Wenn die amerikanische Küche etwas wirklich gut kann, dann Frühstück. Hash Brownies, Pancakes, Eier in jeder Form, Bacon – egal wie es Ihnen am Vorabend ging, nach diesem Start in den Tag fühlen Sie wie neugeboren. Verluste beim Pokern? Shrimp and Grits oder ein Frühstücks-Burrito im The Henry im Luxushotel The Cosmopolitan helfen hier. Nostalgisch veranlagt? Dann ist das atmosphärische Siegel’s 1941 im El Cortez ganz richtig. Und wenn Sie die alte Welt vermissen, dann entschädigt Sie das Pain Perdu im Bouchon, versteckt im Turm des Venetian."
 
       - id: two-second-poi
         img: img2
@@ -65,7 +65,7 @@
       - id: two-third-poi
         img: img3
         title: Bars mit dem gewissen Extra
-        description: "Bei so vielen Bars ist die Auswahl nicht leicht. Sicher ist, dass Sie in der Apex Rooftop Bar & Lounge nicht falsch liegen können. Auf allen Seiten pulsiert die Wüstenmetropole um Sie, während Sie im 55. Stock einen kühlen Drink genießen oder die Kunstwerke von Dustin Yellin unter die Lupe nehmen. Etwas legerer ist der Beer Park mit hunderten von Biersorten und Aussicht auf den Bellagio. Ohne Aussicht, aber dennoch viel zu sehen gibt es bei der Pop-Art-Deko der Greene St. Kitchen. The Laundry Room dagegen ist ein Erlebnis für sich: versteckt im Commonwealth ist der Zugang passwortgeschützt und die Drinks gut geschüttelt."
+        description: "Bei so vielen Bars ist die Auswahl nicht leicht. Sicher ist, dass Sie in der Apex Rooftop Bar & Lounge at the Palms nicht falsch liegen können. Auf allen Seiten pulsiert die Wüstenmetropole um Sie, während Sie im 55. Stock einen kühlen Drink genießen oder die Kunstwerke von Dustin Yellin unter die Lupe nehmen. Etwas legerer ist der Beer Park at Paris mit hunderten von Biersorten und Aussicht auf den Bellagio. Ohne Aussicht, aber dennoch viel zu sehen gibt es bei der Pop-Art-Deko der Greene St. Kitchen im Palms Casino Resort. The Laundry Room dagegen ist ein Erlebnis für sich: versteckt im Commonwealth ist der Zugang passwortgeschützt und die Drinks gut geschüttelt."
 
 
 
@@ -84,12 +84,12 @@
       - id: three-first-poi
         img: img1
         title: Die ultimative Casino Erfahrung
-        description: "Las Vegas hat mehr Casinos als manche Städte Kirchen. Viele kommen mit einem sehenswerten Hotel als Anhang: Excalibur, Circus Circus und natürlich das Caesars Palace. Mehrere Hotels bieten Einsteigerkurse für Casino-Neulinge an (z.b. Das Golden Nugget). Jedes Casino hat dabei seinen eigenen Twist: Foodies gehen ins Cosmopolitan, Poker-Liebhaber sind im Bellagio zuhause, auf Sport kann am besten im Caesars Palace gewettet werden und der beste Mix von Glücksspiel und Entertainment findet sich im Planet Hollywood."
+        description: "Las Vegas hat mehr Casinos als jede andere Stadt. Viele kommen mit einem sehenswerten Hotel als Anhang: Excalibur, Circus Circus und natürlich Caesars Palace. Mehrere Hotels bieten Einsteigerkurse für Casino-Neulinge an (z.b. Das Golden Nugget). Jedes Casino hat dabei seinen eigenen Twist: Foodies gehen ins The Cosmopolitan, Poker-Liebhaber sind im Bellagio zuhause, auf Sport kann am besten im Caesars Palace gewettet werden und der beste Mix von Glücksspiel und Entertainment findet sich im Planet Hollywood."
 
       - id: three-second-poi
         img: img2
         title: It's Showtime
-        description: "Nicht ohne Grund ist es 'The Entertainment Capital of the World'. Las Vegas betört, fesselt, erstaunt. Der weltbekannte Cirque du Soleil hat hier seine Stammspielstätte und begeistert mit seiner letzten Show ‘Mystere’ oder dem Wasserballett ‘O’. Etwas gewagter und wilder geht es beim Karneval für Erwachsene ‘Absinthe’ zu, wo Sie der Bühne ganz nah sind. Weltstars wie Cher oder Lady Gaga teilen sich unterdessen im Mandalay Bay die Bühne. Es sei denn es steht gerade ein Sportevent oder ein Magie-Abend an."
+        description: "Nicht ohne Grund ist es 'The Entertainment Capital of the World'. Las Vegas betört, fesselt, erstaunt. Der weltbekannte Cirque du Soleil hat hier seine Stammspielstätte und begeistert mit seiner letzten Show ‘Mystere’ oder dem Wasserballett ‘O’. Etwas gewagter und wilder geht es beim Karneval für Erwachsene ‘Absinthe’ zu, wo Sie der Bühne ganz nah sind. Weltstars wie Cher oder Lady Gaga teilen sich unterdessen im Park MGM die Bühne. Es sei denn es steht gerade ein Sportevent oder ein Magie-Abend an."
 
       - id: three-third-poi
         img: img3
@@ -104,12 +104,12 @@
       - id: three-fifth-poi
         img: img5
         title: Poolparties
-        description: "Feiern in der Nacht ist etwas für Länder, wo keine Sonne scheint. Was könnte es besseres geben, als der brennenden Nevada-Sonne 'Later' zu sagen und abzutauchen? Das Nonplusultra der Poolparties ist der Encore Beach Club, wo Sie bei endlosen Beats und endlosen Pools bis in die Nacht feiern – oder am beliebten Nightswim teilnehmen können. Ähnlich namhaft sind auch TAO Beach oder Drai’s Beach Club im Zentrum des Strips. Im Tank at Golden Nugget sind dagegen Haie die VIPs der Pools, sicher in speziellen Aquarien untergebracht."
+        description: "Feiern in der Nacht ist etwas für Länder, wo keine Sonne scheint. Was könnte es besseres geben, als tagsüber bei legendären Poolparties abzutauchen? Das Nonplusultra der Poolparties ist der Encore Beach Club, wo Sie bei endlosen Beats und endlosen Pools bis in die Nacht feiern – oder am beliebten Nightswim teilnehmen können. Ähnlich namhaft sind auch TAO Beach oder Drai’s Beach Club im Zentrum des Strips. Im Tank at Golden Nugget sind dagegen Haie die VIPs der Pools, sicher in speziellen Aquarien untergebracht."
 
       - id: three-sixth-poi
         img: img6
         title: Clubbing in Vegas
-        description: "Das soll nicht heißen, dass Nightlife in Vegas zu vernachlässigen wäre. Elegante Einrichtung und goldene Dekorelemente verbinden sich im XS Nightclub mit Pyrotechnik, einer besonderen Lichtshow und DJ-Sets zum eindrucksvollen Clubbing-Erlebnis. Das Hakkasan im MGM Grand zieht sich über fünf Stockwerke und hat neben Dancefloors auch Restaurants. Clubbing-Maximalisten werden im relativ jungen OMNIA ihre Erfüllung finden. Fast 7000 qm Fläche, Veranda, moderne Soundtechnologie und das Herzstück: ein gigantischer Kronleuchter, der sich im Rhythmus mitbewegt."
+        description: "Das soll nicht heißen, dass Nightlife in Vegas zu vernachlässigen wäre. Elegante Einrichtung und goldene Dekorelemente verbinden sich im XS Nightclub mit Pyrotechnik, einer besonderen Lichtshow und DJ-Sets zum eindrucksvollen Clubbing-Erlebnis. Das Hakkasan im MGM Grand zieht sich über fünf Stockwerke und hat neben Dancefloors auch Restaurants. Clubbing-Maximalisten werden im relativ jungen OMNIA im Caesars Palace ihre Erfüllung finden. Fast 7000 qm Fläche, Veranda, moderne Soundtechnologie und das Herzstück: ein gigantischer Kronleuchter, der sich im Rhythmus mitbewegt."
 
 
 
@@ -130,7 +130,7 @@
       - id: four-first-poi
         img: img1
         title: Valley of Fire
-        description: "Nicht von dieser Welt: im State Park Valley of Fire erstreckt sich nur eine Fahrtstunde von der Sin City eine Landschaft aus Sandstein in den absurdesten Formationen. Erosion sei Dank für die Farbenpracht, die von rötlich zu orange zu elfenbeinfarben changiert. Hauptattraktion ist die Fire Wave; auch der Pastel Canyon in zarten Pinktönen steht dem Antelope Canyon nicht nach. Achtung: im Sommer steigen die Temperaturen über 40°C!"
+        description: "Nicht von dieser Welt: im State Park Valley of Fire erstreckt sich nur eine Fahrtstunde von Las Vegas eine Landschaft aus Sandstein in den absurdesten Formationen. Erosion sei Dank für die Farbenpracht, die von rötlich zu orange zu elfenbeinfarben changiert. Hauptattraktion ist die Fire Wave; auch der Pastel Canyon in zarten Pinktönen steht dem Antelope Canyon nicht nach. Achtung: im Sommer steigen die Temperaturen über 40°C!"
 
       - id: four-second-poi
         img: img2
